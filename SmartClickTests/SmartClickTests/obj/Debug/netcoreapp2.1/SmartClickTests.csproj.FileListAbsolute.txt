@@ -1,0 +1,15 @@
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\bin\Debug\netcoreapp2.1\SmartClickTests.deps.json
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\bin\Debug\netcoreapp2.1\SmartClickTests.runtimeconfig.json
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\bin\Debug\netcoreapp2.1\SmartClickTests.runtimeconfig.dev.json
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\bin\Debug\netcoreapp2.1\SmartClickTests.dll
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\bin\Debug\netcoreapp2.1\SmartClickTests.pdb
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\obj\Debug\netcoreapp2.1\SmartClickTests.csprojAssemblyReference.cache
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\obj\Debug\netcoreapp2.1\SmartClickTests.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\obj\Debug\netcoreapp2.1\SmartClickTests.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\obj\Debug\netcoreapp2.1\SmartClickTests.AssemblyInfo.cs
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\obj\Debug\netcoreapp2.1\SmartClickTests.dll
+D:\Visual Studio\Projects\SmartClickTests\SmartClickTests\obj\Debug\netcoreapp2.1\SmartClickTests.pdb
